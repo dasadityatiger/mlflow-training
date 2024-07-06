@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/e994ad67ff494ab78cfccdd6565279c8/artifacts
+end_time: 1720252119054
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: e994ad67ff494ab78cfccdd6565279c8
+run_name: sincere-stag-675
+run_uuid: e994ad67ff494ab78cfccdd6565279c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720252117579
+status: 4
+tags: []
+user_id: aditya.das

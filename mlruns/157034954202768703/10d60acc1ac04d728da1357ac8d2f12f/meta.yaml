@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/10d60acc1ac04d728da1357ac8d2f12f/artifacts
+end_time: 1720258432684
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 10d60acc1ac04d728da1357ac8d2f12f
+run_name: gaudy-horse-154
+run_uuid: 10d60acc1ac04d728da1357ac8d2f12f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720258424668
+status: 4
+tags: []
+user_id: aditya.das

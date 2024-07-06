@@ -1,0 +1,7 @@
+artifact_location: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703
+creation_time: 1720246995368
+experiment_id: '157034954202768703'
+last_update_time: 1720259546609
+lifecycle_stage: active
+name: ElasticNet_House_Price
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/707b90bb5e094363a6581fc068a23035/artifacts
+end_time: 1720258636480
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 707b90bb5e094363a6581fc068a23035
+run_name: welcoming-conch-478
+run_uuid: 707b90bb5e094363a6581fc068a23035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720258578535
+status: 3
+tags: []
+user_id: aditya.das

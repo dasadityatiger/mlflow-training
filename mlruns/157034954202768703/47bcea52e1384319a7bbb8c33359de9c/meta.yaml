@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/47bcea52e1384319a7bbb8c33359de9c/artifacts
+end_time: 1720253171121
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 47bcea52e1384319a7bbb8c33359de9c
+run_name: grandiose-sponge-259
+run_uuid: 47bcea52e1384319a7bbb8c33359de9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720253101586
+status: 3
+tags: []
+user_id: aditya.das

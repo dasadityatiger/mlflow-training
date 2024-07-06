@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/14425e63f92c4a1c95587023f8101c34/artifacts
+end_time: 1720251581865
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 14425e63f92c4a1c95587023f8101c34
+run_name: upbeat-worm-363
+run_uuid: 14425e63f92c4a1c95587023f8101c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720251580666
+status: 4
+tags: []
+user_id: aditya.das

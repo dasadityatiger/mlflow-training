@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/c71aea83e3fe4fc3b80572470cc26634/artifacts
+end_time: 1720258896571
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: c71aea83e3fe4fc3b80572470cc26634
+run_name: secretive-bear-751
+run_uuid: c71aea83e3fe4fc3b80572470cc26634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720258872995
+status: 3
+tags: []
+user_id: aditya.das

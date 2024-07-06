@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/89a057399e2247fc9be8bee292eb23d3/artifacts
+end_time: 1720258264795
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 89a057399e2247fc9be8bee292eb23d3
+run_name: nervous-bear-768
+run_uuid: 89a057399e2247fc9be8bee292eb23d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720258247174
+status: 4
+tags: []
+user_id: aditya.das

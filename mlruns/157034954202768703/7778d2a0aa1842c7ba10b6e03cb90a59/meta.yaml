@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/7778d2a0aa1842c7ba10b6e03cb90a59/artifacts
+end_time: 1720252721775
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 7778d2a0aa1842c7ba10b6e03cb90a59
+run_name: stylish-mouse-896
+run_uuid: 7778d2a0aa1842c7ba10b6e03cb90a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720252685016
+status: 3
+tags: []
+user_id: aditya.das

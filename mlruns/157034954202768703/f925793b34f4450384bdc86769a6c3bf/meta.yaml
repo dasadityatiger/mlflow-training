@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/f925793b34f4450384bdc86769a6c3bf/artifacts
+end_time: 1720252336110
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: f925793b34f4450384bdc86769a6c3bf
+run_name: nosy-shrike-701
+run_uuid: f925793b34f4450384bdc86769a6c3bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720252296683
+status: 3
+tags: []
+user_id: aditya.das

@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/94e550302c2841508511a004eb5e9432/artifacts
+end_time: 1720258824887
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 94e550302c2841508511a004eb5e9432
+run_name: valuable-ox-22
+run_uuid: 94e550302c2841508511a004eb5e9432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720258802904
+status: 3
+tags: []
+user_id: aditya.das

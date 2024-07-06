@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/4bbdff8ff73549d5aa51680bc9a7df4f/artifacts
+end_time: 1720257979799
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 4bbdff8ff73549d5aa51680bc9a7df4f
+run_name: fortunate-fox-139
+run_uuid: 4bbdff8ff73549d5aa51680bc9a7df4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720257627585
+status: 4
+tags: []
+user_id: aditya.das

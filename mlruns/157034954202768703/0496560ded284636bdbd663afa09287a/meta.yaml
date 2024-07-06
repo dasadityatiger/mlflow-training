@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/aditya.das/Documents/demo-project/mlflow-training/mlruns/157034954202768703/0496560ded284636bdbd663afa09287a/artifacts
+end_time: 1720257561285
+entry_point_name: ''
+experiment_id: '157034954202768703'
+lifecycle_stage: active
+run_id: 0496560ded284636bdbd663afa09287a
+run_name: fearless-flea-739
+run_uuid: 0496560ded284636bdbd663afa09287a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720257528195
+status: 4
+tags: []
+user_id: aditya.das
